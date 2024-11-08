@@ -1,0 +1,7 @@
+# Ignorowanie plików checkpoint Jupyter
+.ipynb_checkpoints/
+
+# Ignorowanie innych potencjalnie zbędnych plików
+__pycache__/
+*.pyc
+
